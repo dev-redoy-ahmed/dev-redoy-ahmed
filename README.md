@@ -1,8 +1,7 @@
 ![logo](https://github.com/dev-redoy-ahmed/dev-redoy-ahmed/blob/main/redoy.jpg)
 <h1 align="center">Hi 👋, I'm Redoy Ahmed</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh(BD)</h3>
-<img align = "right" alt= "Coding" width "400"![image](https://github.com/user-attachments/assets/201d1804-b36d-4340-9562-f224a7a51ebf)
-">
+<img align = "right" alt= "Coding" width "400"https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952i2r0diq6srewrumalh0pmeeztarf92v6d4l3kplh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 - 🌱 I’m currently learning **Flutter, Dart, and mobile app development.**
 
