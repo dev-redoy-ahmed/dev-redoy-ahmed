@@ -1,22 +1,74 @@
-![logo](https://github.com/dev-redoy-ahmed/dev-redoy-ahmed/blob/main/redoy.png)
-<h1 align="center">Hi 👋, I'm Redoy Ahmed</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh(BD)</h3>
-<img align = "right" alt= "Coding" width "400" src="https://ravisah.in/images/mobile-app-development.gif">
+# Hi there, I'm Redoy Ahmed 👋
 
-- 🌱 I’m currently learning **Flutter, Dart, and mobile app development.**
+<div align="center">
+  <img src="https://github.com/dev-redoy-ahmed/dev-redoy-ahmed/blob/main/redoy.png" alt="Redoy Ahmed's Logo" width="200">
+</div>
 
-- 💬 Ask me about **Flutter, Dart, and mobile app development.**
+## 🚀 Flutter Developer | Mobile App Enthusiast | Problem Solver
 
-- 📫 How to reach me **dev.redoyahmed@gmail.com**
+Passionate about crafting beautiful and efficient mobile applications using Flutter. Based in the vibrant tech scene of Bangladesh, I'm constantly pushing the boundaries of what's possible in mobile development.
 
-- ⚡ Fun fact **I think I am funny 😄**
+<div align="center">
+  <img src="https://ravisah.in/images/mobile-app-development.gif" alt="Mobile App Development" width="400">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dev-redoy-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev-redoy-ahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev-redoy-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-redoy-ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/dev-redoy-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev-redoy-ahmed" height="30" width="40" /></a>
+### 🌟 What I'm up to:
+
+- 🔭 I'm currently working on **innovative Flutter projects**
+- 🌱 I'm deepening my knowledge in **Flutter, Dart, and mobile app architecture**
+- 👯 I'm looking to collaborate on **open-source Flutter packages**
+- 🤔 I'm exploring **advanced state management techniques in Flutter**
+- 💬 Ask me about **Flutter, Dart, mobile app development, or tech in Bangladesh**
+- 📫 Reach me at: **dev.redoyahmed@gmail.com**
+- ⚡ Fun fact: **I can debug code faster than I can find my keys in the morning! 😄**
+
+### 🛠️ Tech Stack & Tools:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-redoy-ahmed&show_icons=true&theme=radical" alt="Redoy's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-redoy-ahmed&theme=dark" alt="Redoy's GitHub Streak">
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-redoy-ahmed&theme=onedark" alt="Redoy's GitHub Trophies">
+</div>
+
+### 📈 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-redoy-ahmed&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+</div>
+
+### 🌐 Connect with me:
+
+<p align="center">
+  <a href="https://twitter.com/dev-redoy-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev-redoy-ahmed" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dev-redoy-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-redoy-ahmed" height="30" width="40" /></a>
+  <a href="https://instagram.com/dev-redoy-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev-redoy-ahmed" height="30" width="40" /></a>
+</p>
+
+---
+
+<div align="center">
+  <i>⭐️ From [dev-redoy-ahmed](https://github.com/dev-redoy-ahmed)</i>
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=dev-redoy-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</div>
