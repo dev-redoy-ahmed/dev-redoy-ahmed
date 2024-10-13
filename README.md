@@ -95,42 +95,103 @@ Greetings! I'm Redoy Ahmed, a seasoned Full-Stack Developer specializing in web 
 
 ## 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/dev-redoy-ahmed/flutter-ecommerce">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-redoy-ahmed&repo=flutter-ecommerce&theme=react" />
-  </a>
-  <a href="https://github.com/dev-redoy-ahmed/react-dashboard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-redoy-ahmed&repo=react-dashboard&theme=react" />
-  </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div style="width: 45%; min-width: 300px; background: #1a1b27; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" style="width: 100%; border-radius: 5px;" alt="E-commerce App">
+    <h3 style="color: #70a5fd; margin-top: 15px;">Flutter E-commerce App</h3>
+    <p style="color: #a9b1d6;">A feature-rich e-commerce application built with Flutter, offering a seamless shopping experience across multiple platforms.</p>
+    <div style="display: flex; gap: 10px; margin-top: 15px;">
+      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter" alt="Flutter">
+      <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart" alt="Dart">
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+    </div>
+    <a href="https://github.com/dev-redoy-ahmed/flutter-ecommerce" style="display: inline-block; margin-top: 15px; background: #70a5fd; color: #1a1b27; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View Project</a>
+  </div>
+
+  <div style="width: 45%; min-width: 300px; background: #1a1b27; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" style="width: 100%; border-radius: 5px;" alt="React Dashboard">
+    <h3 style="color: #70a5fd; margin-top: 15px;">React Admin Dashboard</h3>
+    <p style="color: #a9b1d6;">A modern, responsive admin dashboard built with React and Material-UI, featuring data visualization and real-time updates.</p>
+    <div style="display: flex; gap: 10px; margin-top: 15px;">
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui" alt="Material-UI">
+    </div>
+    <a href="https://github.com/dev-redoy-ahmed/react-dashboard" style="display: inline-block; margin-top: 15px; background: #70a5fd; color: #1a1b27; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View Project</a>
+  </div>
+
+  <div style="width: 45%; min-width: 300px; background: #1a1b27; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/238200431-ab4c4446-9f52-4f69-8a85-fc14da55732f.gif" style="width: 100%; border-radius: 5px;" alt="Next.js Blog">
+    <h3 style="color: #70a5fd; margin-top: 15px;">Next.js Personal Blog</h3>
+    <p style="color: #a9b1d6;">A fast, SEO-friendly personal blog built with Next.js and MDX, featuring dark mode and a custom CMS integration.</p>
+    <div style="display: flex; gap: 10px; margin-top: 15px;">
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" alt="Next.js">
+      <img src="https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=mdx" alt="MDX">
+      <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    </div>
+    <a href="https://github.com/dev-redoy-ahmed/nextjs-blog" style="display: inline-block; margin-top: 15px; background: #70a5fd; color: #1a1b27; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View Project</a>
+  </div>
+
+  <div style="width: 45%; min-width: 300px; background: #1a1b27; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" style="width: 100%; border-radius: 5px;" alt="Node.js API">
+    <h3 style="color: #70a5fd; margin-top: 15px;">Node.js RESTful API</h3>
+    <p style="color: #a9b1d6;">A scalable and secure RESTful API built with Node.js, Express, and MongoDB, featuring JWT authentication and comprehensive testing.</p>
+   <div style="display: flex; gap: 10px; margin-top: 15px;">
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express" alt="Express">
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+    </div>
+    <a href="https://github.com/dev-redoy-ahmed/nodejs-api" style="display: inline-block; margin-top: 15px; background: #70a5fd; color: #1a1b27; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View Project</a>
+  </div>
+
 </div>
 
-## 💼 Professional Portfolio
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Portfolio Showcase" width="700">
+<div align="center" style="margin-top: 30px;">
+  <a href="https://github.com/dev-redoy-ahmed?tab=repositories" style="display: inline-block; background: #70a5fd; color: #1a1b27; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">View All Projects</a>
 </div>
 
-<details>
-  <summary>Click to view portfolio details</summary>
-  
-  ### Web Development Projects
-  - [E-commerce Platform](https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif)
-  - [Content Management System](https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif)
-  - [Real-time Analytics Dashboard](https://user-images.githubusercontent.com/74038190/238200431-ab4c4446-9f52-4f69-8a85-fc14da55732f.gif)
+## 💼 Professional Experience
 
-  ### Mobile Applications
-  - [Fitness Tracking App](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
-  - [Social Media Client](https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif)
-  - [E-learning Platform](https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif)
-</details>
+<div style="background: #1a1b27; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <h3 style="color: #70a5fd;">Senior Full Stack Developer | TechInnovate Solutions</h3>
+  <p style="color: #a9b1d6;"><em>January 2022 - Present</em></p>
+  <ul style="color: #a9b1d6;">
+    <li>Lead the development of a high-traffic e-commerce platform using React and Node.js, resulting in a 40% increase in user engagement.</li>
+    <li>Implemented advanced state management solutions in Flutter, improving app performance by 25%.</li>
+    <li>Mentored junior developers and conducted code reviews, fostering a culture of best practices and continuous improvement.</li>
+  </ul>
+</div>
+
+<div style="background: #1a1b27; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <h3 style="color: #70a5fd;">Mobile App Developer | InnoMobile Corp</h3>
+  <p style="color: #a9b1d6;"><em>June 2019 - December 2021</em></p>
+  <ul style="color: #a9b1d6;">
+    <li>Developed and launched 5+ Flutter applications for iOS and Android, accumulating over 1 million downloads collectively.</li>
+    <li>Integrated complex APIs and implemented real-time features using WebSockets, enhancing user experience significantly.</li>
+    <li>Collaborated with UI/UX designers to create intuitive and visually appealing interfaces, increasing user retention by 30%.</li>
+  </ul>
+</div>
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing Flutter Performance: Best Practices and Tips](https://dev.to/dev-redoy-ahmed/optimizing-flutter-performance)
-- [Building Scalable Web Applications with React and GraphQL](https://dev.to/dev-redoy-ahmed/scalable-web-apps-react-graphql)
-- [The Future of Cross-Platform Development: Flutter vs React Native](https://dev.to/dev-redoy-ahmed/flutter-vs-react-native)
-<!-- BLOG-POST-LIST:END -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+  <div style="width: 30%; min-width: 250px; background: #1a1b27; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+    <h3 style="color: #70a5fd;">Mastering Flutter State Management</h3>
+    <p style="color: #a9b1d6;">An in-depth look at various state management solutions in Flutter and when to use each.</p>
+    <a href="https://dev.to/dev-redoy-ahmed/mastering-flutter-state-management" style="color: #70a5fd; text-decoration: none;">Read More →</a>
+  </div>
+  <div style="width: 30%; min-width: 250px; background: #1a1b27; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+    <h3 style="color: #70a5fd;">Building Scalable APIs with Node.js</h3>
+    <p style="color: #a9b1d6;">Best practices and architectural patterns for creating robust and scalable APIs using Node.js and Express.</p>
+    <a href="https://dev.to/dev-redoy-ahmed/building-scalable-apis-with-nodejs" style="color: #70a5fd; text-decoration: none;">Read More →</a>
+  </div>
+  <div style="width: 30%; min-width: 250px; background: #1a1b27; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+    <h3 style="color: #70a5fd;">React Performance Optimization Techniques</h3>
+    <p style="color: #a9b1d6;">Explore advanced techniques to boost your React application's performance and user experience.</p>
+    <a href="https://dev.to/dev-redoy-ahmed/react-performance-optimization-techniques" style="color: #70a5fd; text-decoration: none;">Read More →</a>
+  </div>
+</div>
 
 ## 🤝 Let's Connect
 
