@@ -15,9 +15,6 @@
   <a href="https://dev.to/dev-redoy-ahmed"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Web and Mobile Development" width="700">
-</div>
 
 ## 👨‍💻 About Me
 
@@ -86,13 +83,6 @@ Greetings! I'm Redoy Ahmed, a seasoned Full-Stack Developer specializing in web 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-redoy-ahmed&theme=github_dark" width="700">
 </div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-redoy-ahmed&theme=algolia&no-frame=true&row=1&column=7" alt="dev-redoy-ahmed" />
-</div>
-
 ## 🌟 Featured Projects
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
