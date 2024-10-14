@@ -20,7 +20,7 @@
 
 Greetings! I'm Redoy Ahmed, a seasoned Full-Stack Developer specializing in web technologies and Flutter application development. With a keen eye for design and a passion for clean, efficient code, I create seamless digital experiences across various platforms.
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding" width="300">
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding" width="300">
 
 - 🔭 Current Focus: Developing cross-platform applications with Flutter and building responsive web solutions
 - 🌱 Expanding Expertise: Advanced state management in Flutter, NextJS, and serverless architectures
