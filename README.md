@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="redoy.png" alt="Redoy Ahmed - Web & Flutter Developer" width="100%">
+
 </div>
 
 # Redoy Ahmed | Full-Stack & Mobile Developer
